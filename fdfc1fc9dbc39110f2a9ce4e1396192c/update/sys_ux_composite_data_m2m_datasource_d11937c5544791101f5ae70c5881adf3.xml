@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">151937c50d4791104d0e8587ee298bf4</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">9d1937c525479110559ae1f5e16929f3</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-07 15:44:52</sys_created_on>
+        <sys_id>d11937c5544791101f5ae70c5881adf3</sys_id>
+        <sys_name/>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_d11937c5544791101f5ae70c5881adf3</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

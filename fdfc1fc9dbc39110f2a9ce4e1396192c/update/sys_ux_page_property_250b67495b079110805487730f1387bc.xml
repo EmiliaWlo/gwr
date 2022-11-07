@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="My Great Western Rail - Incidents">e10b674965079110eb3abe40a244ffbd</page>
+        <required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>250b67495b079110805487730f1387bc</sys_id>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_page_property_250b67495b079110805487730f1387bc</sys_update_name>
+        <type>json</type>
+        <unique_name>x_814719_my_grea_0.e10b674965079110eb3abe40a244ffbd.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=250b67495b079110805487730f1387bc"/>
+</record_update>

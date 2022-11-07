@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Approve Mapping</name>
+        <parent_macroponent display_value="Landing Page">951937c5bd4791106f99a23769bd91fa</parent_macroponent>
+        <source_component/>
+        <source_da display_value="approve">1d1937c572479110d9303fb65227dbfe</source_da>
+        <source_element_id>data_row_1</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-07 15:44:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d11937c58d4791102baea6c01727fdfa</sys_id>
+        <sys_name>Approve Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_d11937c58d4791102baea6c01727fdfa</sys_update_name>
+        <target_event display_value="My tasks approve">191937c5234791105b9bbc4aa1960ef9</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

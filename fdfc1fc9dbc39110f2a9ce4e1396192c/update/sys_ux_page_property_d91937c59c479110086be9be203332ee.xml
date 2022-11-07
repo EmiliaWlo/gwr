@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="My Great Western Rail">d11937c54c479110d80f8b3e183b59ec</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">551937c5a74791106f3bd1fbd94397f8</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-07 15:44:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d91937c59c479110086be9be203332ee</sys_id>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_page_property_d91937c59c479110086be9be203332ee</sys_update_name>
+        <type>json</type>
+        <unique_name>x_814719_my_grea_0.d11937c54c479110d80f8b3e183b59ec.route.chrome_header.551937c5a74791106f3bd1fbd94397f8</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d91937c59c479110086be9be203332ee"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for My Great Western Rail - Incidents</description>
+        <genius_result_assembly/>
+        <label>My Great Western Rail - Incidents search profile</label>
+        <name>x_814719_my_grea_0_blngzakz_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:21</sys_created_on>
+        <sys_id>ed0b6749d307911018ea0bf403f945c2</sys_id>
+        <sys_name>My Great Western Rail - Incidents search profile</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>ais_search_profile_ed0b6749d307911018ea0bf403f945c2</sys_update_name>
+    </ais_search_profile>
+</record_update>

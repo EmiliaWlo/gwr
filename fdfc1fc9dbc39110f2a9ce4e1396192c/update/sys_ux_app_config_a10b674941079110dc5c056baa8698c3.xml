@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>Workspace for customer service managers to assign, view and manage incidents</description>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>My Great Western Rail - Incidents Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:22</sys_created_on>
+        <sys_id>a10b674941079110dc5c056baa8698c3</sys_id>
+        <sys_name>My Great Western Rail - Incidents Config</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_app_config_a10b674941079110dc5c056baa8698c3</sys_update_name>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=a10b674941079110dc5c056baa8698c3"/>
+</record_update>

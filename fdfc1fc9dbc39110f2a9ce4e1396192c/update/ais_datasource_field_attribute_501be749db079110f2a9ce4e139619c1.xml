@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Incidents Table">c01be749db079110f2a9ce4e1396194f</datasource>
+        <field>number</field>
+        <source>x_814719_my_grea_0_incidents</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:32</sys_created_on>
+        <sys_id>501be749db079110f2a9ce4e139619c1</sys_id>
+        <sys_name>x_814719_my_grea_0_incidents.number</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_501be749db079110f2a9ce4e139619c1</sys_update_name>
+        <value>text</value>
+    </ais_datasource_field_attribute>
+</record_update>

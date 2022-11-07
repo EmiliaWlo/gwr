@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing Page">951937c5bd4791106f99a23769bd91fa</macroponent>
+        <name>On search </name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+
+    const {
+        searchContextConfigId,
+        searchTerm
+    } = event.payload;
+    
+    api.emit('NAV_ITEM_SELECTED', {
+        route: "search",
+        fields: {
+            searchContextConfigId
+        },
+        params: {
+            searchTerm
+        }
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-07 15:44:49</sys_created_on>
+        <sys_id>191937c583479110badc8cd9e5dbcdf6</sys_id>
+        <sys_name>On search</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_client_script_191937c583479110badc8cd9e5dbcdf6</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

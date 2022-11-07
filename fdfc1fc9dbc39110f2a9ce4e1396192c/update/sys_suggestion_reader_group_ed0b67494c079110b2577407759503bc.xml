@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="My Great Western Rail - Incidents - Workspace Sear">610b674911079110fd754a16566e47c2</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:21</sys_created_on>
+        <sys_id>ed0b67494c079110b2577407759503bc</sys_id>
+        <sys_name>User History Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_ed0b67494c079110b2577407759503bc</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>
