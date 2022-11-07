@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="My Great Western Rail Config">891937c5db479110f2a9ce4e139619d0</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Create New Incident">de0d9c99dbc79110f2a9ce4e139619e3</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>Create New Incident</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Landing Page">151937c5d9479110c1b094067b8205f8</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 18:21:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a0d9cd9dbc79110f2a9ce4e13961939</sys_id>
+        <sys_name>Create New Incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_screen_1a0d9cd9dbc79110f2a9ce4e13961939</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a0d9cd9dbc79110f2a9ce4e13961939"/>
+</record_update>

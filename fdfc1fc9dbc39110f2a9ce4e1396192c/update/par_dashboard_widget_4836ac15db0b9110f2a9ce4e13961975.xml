@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">690b6749a7079110f10d548d011c62bd</canvas>
+        <component display_value="Donut">a2b0596cec6b9d49dd1ff9bf76b5084b</component>
+        <component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Incidents","sourceType":"table","tableOrViewName":"x_814719_my_grea_0_incidents","filterQuery":"","id":"dGFibGV4XzgxNDcxOV9teV9ncmVhXzBfaW5jaWRlbnRzMTY2Nzg0NzEzMjk1MA==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4XzgxNDcxOV9teV9ncmVhXzBfaW5jaWRlbnRzMTY2Nzg0NzEzMjk1MA==","id":"ZEdGaWJHVjRYemd4TkRjeE9WOXRlVjluY21WaFh6QmZhVzVqYVdSbGJuUnpNVFkyTnpnME56RXpNamsxTUE9PTE2Njc4NDcxMzQxNDk=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4XzgxNDcxOV9teV9ncmVhXzBfaW5jaWRlbnRzMTY2Nzg0NzEzMjk1MA==","groupByField":"type","isRange":false,"isChoice":true,"isPaBucket":false}]}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>16</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 19:01:49</sys_created_on>
+        <sys_id>4836ac15db0b9110f2a9ce4e13961975</sys_id>
+        <sys_name/>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>par_dashboard_widget_4836ac15db0b9110f2a9ce4e13961975</sys_update_name>
+        <visualization/>
+        <w>4</w>
+        <x>4</x>
+        <y>17</y>
+    </par_dashboard_widget>
+</record_update>
