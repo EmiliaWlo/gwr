@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_814719_my_grea_0.user" name="x_814719_my_grea_0.user">6afc1fc9dbc39110f2a9ce4e13961990</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 13:41:58</sys_created_on>
+        <sys_id>66fc1fc9dbc39110f2a9ce4e13961991</sys_id>
+        <sys_name>6afc1fc9dbc39110f2a9ce4e13961990</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_66fc1fc9dbc39110f2a9ce4e13961991</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">1d1937c572479110d9303fb65227dbfe</declarative_action_assignment>
+        <predicate display_value="My tasks requested item">d11937c5ce479110c799fc83c13ba3f1</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-07 15:44:50</sys_created_on>
+        <sys_id>5d1937c5d54791107aa83d4e391edbed</sys_id>
+        <sys_name/>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_5d1937c5d54791107aa83d4e391edbed</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

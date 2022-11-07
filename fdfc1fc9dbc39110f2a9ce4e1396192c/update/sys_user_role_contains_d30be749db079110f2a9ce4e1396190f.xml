@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_814719_my_grea_0.customer_service_manager" name="x_814719_my_grea_0.customer_service_manager">5efc1fc9dbc39110f2a9ce4e13961932</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:28</sys_created_on>
+        <sys_id>d30be749db079110f2a9ce4e1396190f</sys_id>
+        <sys_name>canvas_user.x_814719_my_grea_0.customer_service_manager</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>sys_user_role_contains_d30be749db079110f2a9ce4e1396190f</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

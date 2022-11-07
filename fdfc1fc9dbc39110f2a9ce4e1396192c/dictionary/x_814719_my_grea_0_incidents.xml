@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c9bf178ddbc39110f2a9ce4e139619bb" label="Incidents" max_length="40" name="x_814719_my_grea_0_incidents" text_index="true" type="collection">
+        <element display="true" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Description" mandatory="true" max_length="1500" name="description" type="string"/>
+        <element label="Email address " mandatory="true" max_length="40" name="email_address" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Title" mandatory="true" max_length="200" name="title" type="string"/>
+        <element choice="3" label="Type" mandatory="true" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="My train is delayed" sequence="0" value="delay"/>
+                <element inactive_on_update="false" label="My train is stopped" sequence="1" value="train_stopped"/>
+                <element inactive_on_update="false" label="Accidents" sequence="2" value="accidents"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

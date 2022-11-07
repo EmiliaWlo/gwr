@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What's the issue?">2928e785db079110f2a9ce4e13961952</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:36:15</sys_created_on>
+        <sys_id>f969abc5db079110f2a9ce4e1396190f</sys_id>
+        <sys_name>There was an accident</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>question_choice_f969abc5db079110f2a9ce4e1396190f</sys_update_name>
+        <text>There was an accident</text>
+        <value>accident</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=f969abc5db079110f2a9ce4e1396190f"/>
+</record_update>

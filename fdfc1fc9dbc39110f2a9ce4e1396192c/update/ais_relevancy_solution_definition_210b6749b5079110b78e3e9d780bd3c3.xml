@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ais_relevancy_solution_definition">
+    <ais_relevancy_solution_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="Search Relevancy">458c3b2ab72300100e173307fe11a923</capability>
+        <current_solution_version/>
+        <dataset_language>en</dataset_language>
+        <fields>signal_json</fields>
+        <filter table="ais_relevancy_training_staging">sys_created_onONLast 30 days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()^search_profile=ed0b6749d307911018ea0bf403f945c2^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Last 30 days@javascript:gs.beginningOfLast30Days()@javascript:gs.endOfLast30Days()"/>
+            <item display_table="ais_search_profile" display_value="My Great Western Rail - Incidents search profile" endquery="false" field="search_profile" goto="false" newquery="false" operator="=" or="false" value="ed0b6749d307911018ea0bf403f945c2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <profile display_value="My Great Western Rail - Incidents search profile">ed0b6749d307911018ea0bf403f945c2</profile>
+        <request_source>api</request_source>
+        <solution_label>ais_relevancy_ed0b6749d307911018ea0bf403f945c2</solution_label>
+        <solution_name>ml_x_snc_sn_workspace_start_global_ais_relevancy_ed0b6749d307911018ea0bf403f945c2</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"trainingMode":"generateFeatureVectorsandTrain","algorithm":"liblinear"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ais_relevancy_solution_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 14:43:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>210b6749b5079110b78e3e9d780bd3c3</sys_id>
+        <sys_name>ais_relevancy_ed0b6749d307911018ea0bf403f945c2</sys_name>
+        <sys_package display_value="My Great Western Rail" source="x_814719_my_grea_0">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Great Western Rail">fdfc1fc9dbc39110f2a9ce4e1396192c</sys_scope>
+        <sys_update_name>ais_relevancy_solution_definition_210b6749b5079110b78e3e9d780bd3c3</sys_update_name>
+        <table>ais_relevancy_training_staging</table>
+        <training_frequency>every_30_days</training_frequency>
+        <word_vector_corpus/>
+    </ais_relevancy_solution_definition>
+</record_update>
